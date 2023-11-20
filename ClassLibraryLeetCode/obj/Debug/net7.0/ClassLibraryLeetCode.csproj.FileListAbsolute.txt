@@ -9,3 +9,14 @@ C:\Users\jalal\OneDrive\Documents\VS Code\LeetCode\ClassLibraryLeetCode\obj\Debu
 C:\Users\jalal\OneDrive\Documents\VS Code\LeetCode\ClassLibraryLeetCode\obj\Debug\net7.0\refint\ClassLibraryLeetCode.dll
 C:\Users\jalal\OneDrive\Documents\VS Code\LeetCode\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.pdb
 C:\Users\jalal\OneDrive\Documents\VS Code\LeetCode\ClassLibraryLeetCode\obj\Debug\net7.0\ref\ClassLibraryLeetCode.dll
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\bin\Debug\net7.0\ClassLibraryLeetCode.deps.json
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\bin\Debug\net7.0\ClassLibraryLeetCode.dll
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\bin\Debug\net7.0\ClassLibraryLeetCode.pdb
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.AssemblyInfoInputs.cache
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.AssemblyInfo.cs
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.csproj.CoreCompileInputs.cache
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.dll
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\refint\ClassLibraryLeetCode.dll
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ClassLibraryLeetCode.pdb
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryLeetCode\obj\Debug\net7.0\ref\ClassLibraryLeetCode.dll

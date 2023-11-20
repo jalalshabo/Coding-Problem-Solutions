@@ -10,7 +10,7 @@ class Program
     {
 
  
-        Console.WriteLine(LongestSubstringWithoutRepeatingCharacters.LongestSubstringWithoutRepeatingCharactersSolution("pwwkew"));
+        Console.WriteLine(ConcatenationOfArray.ConcatenationOfArraySolution(new int[] {1,2,1,1,2,1}));
 
     }
 }
