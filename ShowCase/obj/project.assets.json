@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ClassLibraryLeetCode/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryLeetCode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryLeetCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryLeetCode/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryLeetCode/ClassLibraryLeetCode.csproj",
+      "msbuildProject": "../ClassLibraryLeetCode/ClassLibraryLeetCode.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ClassLibraryLeetCode >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jalal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ShowCase\\ShowCase.csproj",
+      "projectName": "ShowCase",
+      "projectPath": "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ShowCase\\ShowCase.csproj",
+      "packagesPath": "C:\\Users\\jalal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ShowCase\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jalal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ClassLibraryLeetCode\\ClassLibraryLeetCode.csproj": {
+              "projectPath": "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ClassLibraryLeetCode\\ClassLibraryLeetCode.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
