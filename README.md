@@ -16,6 +16,8 @@ Solutions Table
 ========
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|18| [Reverse String](https://leetcode.com/problems/reverse-string/)| [C#](./ClassLibraryLeetCode/ReverseString.cs) |Easy|
+|17| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description//)| [C#](./ClassLibraryLeetCode/ConcatenationOfArray.cs) |Easy|
 |16| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C#](./ClassLibraryLeetCode/TrappingRainWater.cs) |Hard|
 |15| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C#](./ClassLibraryLeetCode/LongestConsecutiveSequence.cs) |Medium|
 |14| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C#](./ClassLibraryLeetCode/ContainsDuplicates.cs) |Easy|
