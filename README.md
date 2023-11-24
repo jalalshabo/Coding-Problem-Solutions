@@ -16,6 +16,9 @@ Solutions Table
 ========
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C#](./ClassLibraryLeetCode/MoveZeroes.cs) |Easy|
+|20| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C#](./ClassLibraryLeetCode/MergeStringsAlternately.cs) |Easy|
+|19| [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C#](./ClassLibraryLeetCode/RemoveDuplicatesFromSortedArray.cs) |Easy|
 |18| [Reverse String](https://leetcode.com/problems/reverse-string/)| [C#](./ClassLibraryLeetCode/ReverseString.cs) |Easy|
 |17| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description//)| [C#](./ClassLibraryLeetCode/ConcatenationOfArray.cs) |Easy|
 |16| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C#](./ClassLibraryLeetCode/TrappingRainWater.cs) |Hard|
