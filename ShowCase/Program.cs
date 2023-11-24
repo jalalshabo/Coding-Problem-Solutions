@@ -9,7 +9,7 @@ class Program
     static void Main(string[] args)
     {
         
-        MoveZeroes.MoveZeroesSolution(new int[] {4,1,0,3,12});
+        RemoveDuplicatesFromSortedArray.RemoveDuplicatesFromSortedArraySolution(new int[] {1,1,2});
 
         
         // var str = MergeStringsAlternately.MergeStringsAlternatelySolution("word", "wordword");
