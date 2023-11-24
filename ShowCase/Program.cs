@@ -9,13 +9,16 @@ class Program
     static void Main(string[] args)
     {
         
-        var str = MergeStringsAlternately.MergeStringsAlternatelySolution("word", "wordword");
+        MoveZeroes.MoveZeroesSolution(new int[] {4,1,0,3,12});
 
-        foreach (var st in str)
-        {
-            Console.WriteLine(st);
+        
+        // var str = MergeStringsAlternately.MergeStringsAlternatelySolution("word", "wordword");
+
+        // foreach (var st in str)
+        // {
+        //     Console.WriteLine(st);
             
-        }
+        // }
  
     }
 }
