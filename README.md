@@ -16,6 +16,12 @@ Solutions Table
 ========
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|27| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C#](./ClassLibraryLeetCode/IsSubsequence.cs) |Easy|
+|26| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C#](./ClassLibraryLeetCode/LengthOfLastWord.cs) |Easy|
+|25| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C#](./ClassLibraryLeetCode/LongestCommonPrefix.cs) |Easy|
+|24| [PascalsTriangle](https://leetcode.com/problems/pascals-triangle)| [C#](./ClassLibraryLeetCode/PascalsTriangle.cs) |Easy|
+|23| [Remove Element](https://leetcode.com/problems/remove-element/)| [C#](./ClassLibraryLeetCode/RemoveElement.cs) |Easy|
+|22| [Replace Element With Greatest Element ](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [C#](./ClassLibraryLeetCode/ReplaceElementswithGreatestElementonRightSide.cs) |Easy|
 |21| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C#](./ClassLibraryLeetCode/MoveZeroes.cs) |Easy|
 |20| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C#](./ClassLibraryLeetCode/MergeStringsAlternately.cs) |Easy|
 |19| [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)| [C#](./ClassLibraryLeetCode/RemoveDuplicatesFromSortedArray.cs) |Easy|
