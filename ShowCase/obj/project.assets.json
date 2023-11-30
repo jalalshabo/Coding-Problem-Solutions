@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "ClassLibraryLeetCode/1.0.0": {
+      "ClassLibraryProblemSolutions/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/ClassLibraryLeetCode.dll": {}
+          "bin/placeholder/ClassLibraryProblemSolutions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibraryLeetCode.dll": {}
+          "bin/placeholder/ClassLibraryProblemSolutions.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ClassLibraryLeetCode/1.0.0": {
+    "ClassLibraryProblemSolutions/1.0.0": {
       "type": "project",
-      "path": "../ClassLibraryLeetCode/ClassLibraryLeetCode.csproj",
-      "msbuildProject": "../ClassLibraryLeetCode/ClassLibraryLeetCode.csproj"
+      "path": "../ClassLibraryProblemSolutions/ClassLibraryProblemSolutions.csproj",
+      "msbuildProject": "../ClassLibraryProblemSolutions/ClassLibraryProblemSolutions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ClassLibraryLeetCode >= 1.0.0"
+      "ClassLibraryProblemSolutions >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ClassLibraryLeetCode\\ClassLibraryLeetCode.csproj": {
-              "projectPath": "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ClassLibraryLeetCode\\ClassLibraryLeetCode.csproj"
+            "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ClassLibraryProblemSolutions\\ClassLibraryProblemSolutions.csproj": {
+              "projectPath": "C:\\Users\\jalal\\OneDrive\\Documents\\VS Code\\Coding-Problem-Solutions\\ClassLibraryProblemSolutions\\ClassLibraryProblemSolutions.csproj"
             }
           }
         }

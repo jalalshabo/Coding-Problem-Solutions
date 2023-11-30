@@ -1,0 +1,11 @@
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\bin\Debug\net7.0\ClassLibraryProblemSolutions.deps.json
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\bin\Debug\net7.0\ClassLibraryProblemSolutions.dll
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\bin\Debug\net7.0\ClassLibraryProblemSolutions.pdb
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ClassLibraryProblemSolutions.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ClassLibraryProblemSolutions.AssemblyInfoInputs.cache
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ClassLibraryProblemSolutions.AssemblyInfo.cs
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ClassLibraryProblemSolutions.csproj.CoreCompileInputs.cache
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ClassLibraryProblemSolutions.dll
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\refint\ClassLibraryProblemSolutions.dll
+c:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ClassLibraryProblemSolutions.pdb
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ClassLibraryProblemSolutions\obj\Debug\net7.0\ref\ClassLibraryProblemSolutions.dll

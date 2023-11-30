@@ -16,6 +16,9 @@ Solutions Table
 ========
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|30| [Majority Element](https://leetcode.com/problems/majority-element/)| [C#](./ClassLibraryLeetCode/MajorityElement.cs) |Easy|
+|29| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [C#](./ClassLibraryLeetCode/CanPlaceFlowers.cs) |Easy|
+|28| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C#](./ClassLibraryLeetCode/IsomorphicStrings.cs) |Easy|
 |27| [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C#](./ClassLibraryLeetCode/IsSubsequence.cs) |Easy|
 |26| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C#](./ClassLibraryLeetCode/LengthOfLastWord.cs) |Easy|
 |25| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C#](./ClassLibraryLeetCode/LongestCommonPrefix.cs) |Easy|

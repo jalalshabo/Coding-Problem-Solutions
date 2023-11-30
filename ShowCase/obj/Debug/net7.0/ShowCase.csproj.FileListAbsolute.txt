@@ -21,8 +21,6 @@ C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ShowCase.runtimeconfig.json
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ShowCase.dll
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ShowCase.pdb
-C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ClassLibraryLeetCode.dll
-C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ClassLibraryLeetCode.pdb
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\Debug\net7.0\ShowCase.csproj.AssemblyReference.cache
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\Debug\net7.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\Debug\net7.0\ShowCase.AssemblyInfoInputs.cache
@@ -34,3 +32,5 @@ C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\Debug\net7.0\ShowCase.pdb
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\Debug\net7.0\ShowCase.genruntimeconfig.cache
 C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\obj\Debug\net7.0\ref\ShowCase.dll
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ClassLibraryProblemSolutions.dll
+C:\Users\jalal\OneDrive\Documents\VS Code\Coding-Problem-Solutions\ShowCase\bin\Debug\net7.0\ClassLibraryProblemSolutions.pdb

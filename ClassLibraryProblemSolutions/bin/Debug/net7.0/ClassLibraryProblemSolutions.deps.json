@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "ShowCase/1.0.0": {
-        "dependencies": {
-          "ClassLibraryProblemSolutions": "1.0.0"
-        },
-        "runtime": {
-          "ShowCase.dll": {}
-        }
-      },
       "ClassLibraryProblemSolutions/1.0.0": {
         "runtime": {
           "ClassLibraryProblemSolutions.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ShowCase/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ClassLibraryProblemSolutions/1.0.0": {
       "type": "project",
       "serviceable": false,
