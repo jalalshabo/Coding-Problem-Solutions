@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeSolutions
 {
-    // Source: https://leetcode.com/problems/can-place-flowers
+    // Source: https://leetcode.com/problems/can-place-flowers/
     // Author: Jalal Shabo
     // Date  : 11/29/2023
     // Time Complexity: O(n) 
