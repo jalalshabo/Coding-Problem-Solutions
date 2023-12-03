@@ -16,6 +16,8 @@ Solutions Table
 ========
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|32| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [C#](./ClassLibraryProblemSolutions/LeetCodeSolutions/FindPivotIndex.cs) |Easy|
+|31| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [C#](./ClassLibraryProblemSolutions/LeetCodeSolutions/ValidMountainArray.cs) |Easy|
 |30| [Majority Element](https://leetcode.com/problems/majority-element/)| [C#](./ClassLibraryProblemSolutions/LeetCodeSolutions/MajorityElement.cs) |Easy|
 |29| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [C#](./ClassLibraryProblemSolutions/LeetCodeSolutions/CanPlaceFlowers.cs) |Easy|
 |28| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C#](./ClassLibraryProblemSolutions/LeetCodeSolutions/IsomorphicStrings.cs) |Easy|
