@@ -74,3 +74,4 @@ ClassLibraryProblemSolutions/bin/Debug/net7.0/ClassLibraryProblemSolutions.pdb
 
 #Incomplete Solutions Ignore 
 ClassLibraryProblemSolutions/LeetCodeSolutions/MergeSortedArrayIncomplete.cs
+ClassLibraryProblemSolutions/LeetCodeSolutions/SortAnArrayIncomplete.cs
