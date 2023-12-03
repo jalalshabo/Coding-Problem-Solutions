@@ -69,3 +69,8 @@ ShowCase/bin/Debug/net7.0/ClassLibraryProblemSolutions.dll
 ShowCase/bin/Debug/net7.0/ClassLibraryProblemSolutions.pdb
 ClassLibraryProblemSolutions/bin/Debug/net7.0/ClassLibraryProblemSolutions.dll
 ClassLibraryProblemSolutions/bin/Debug/net7.0/ClassLibraryProblemSolutions.pdb
+
+
+
+#Incomplete Solutions Ignore 
+ClassLibraryProblemSolutions/LeetCodeSolutions/MergeSortedArrayIncomplete.cs
